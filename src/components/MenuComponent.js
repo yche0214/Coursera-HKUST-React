@@ -40,7 +40,7 @@ import { Link } from 'react-router-dom';
             <div className="container">
               <div className="row">
                 <Breadcrumb>
-                  <BreadcrumbItem><Link to="home">主页</Link></BreadcrumbItem>
+                  <BreadcrumbItem><Link to="/home">主页</Link></BreadcrumbItem>
                   <BreadcrumbItem active>菜单</BreadcrumbItem>
                 </Breadcrumb>
                 <div className="col-12">
