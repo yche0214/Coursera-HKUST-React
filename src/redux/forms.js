@@ -7,3 +7,5 @@ export const InitialFeedback = {
     contactType: 'Tel.',
     message: ''
 };
+
+//映射到redux
